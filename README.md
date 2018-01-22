@@ -1,4 +1,4 @@
 # cucumberSpringBoot
-This example is used to Integrate Spring boot with Cucumber (feature)
+Purpose of this example is to show how you can integrate Cucumber for behavior driven testing with Spring Boot integration tests.
 
 
